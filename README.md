@@ -19,10 +19,6 @@ To design and develop an AI-based predictive maintenance system capable of estim
 6. **Visualization & Output**
 - Present results via charts and dashboards showing RUL trends and alert zones. 
 
-## Architecture Diagram  
-
-![](Aspose.Words.072c5ff2-ae53-4611-8571-688eb115c598.001.png)
-
 ## Tech Stack  
 
 - **Python** – Core programming language  

@@ -1,4 +1,4 @@
-# PrognosAI: Predictive Maintenance using Stacked LSTM
+# Development of AI-Driven Predictive Maintenance System using Time-Series Sensor Data
 An end-to-end deep learning system designed for the accurate prediction of the Remaining Useful Life (RUL) of industrial turbofan engines, complete with piecewise linear target capping, programmatic health alerts, and visual fleet dashboards.
 
 ### Key Features

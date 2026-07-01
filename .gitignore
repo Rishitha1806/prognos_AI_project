@@ -1,0 +1,15 @@
+# Dataset files (Too large for GitHub)
+*.txt
+!requirements.txt
+
+# Trained models
+*.h5
+*.keras
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
